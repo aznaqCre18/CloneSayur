@@ -1,6 +1,6 @@
-import React, { Component } from 'react'
+import React, {Component} from 'react';
 
-import { SearchBar } from 'react-native-elements';
+import {SearchBar} from 'react-native-elements';
 
 export default class App extends Component {
   state = {
@@ -8,11 +8,11 @@ export default class App extends Component {
   };
 
   updateSearch = search => {
-    this.setState({ search });
+    this.setState({search});
   };
 
   render() {
-    const { search } = this.state;
+    const {search} = this.state;
 
     return (
       <SearchBar

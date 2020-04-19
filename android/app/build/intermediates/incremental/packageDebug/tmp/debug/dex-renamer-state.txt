@@ -1,4 +1,4 @@
-#Tue Apr 14 22:48:46 ICT 2020
-base.0=F\:\\RN Project\\CloneSayurcuy\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Sat Apr 18 23:32:27 ICT 2020
+base.0=D\:\\Dumbways\\Clone Sayur\\CloneSayur\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
